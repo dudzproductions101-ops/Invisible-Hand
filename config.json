@@ -1,0 +1,8 @@
+{
+  "default_threads": 5,
+  "default_requests_per_thread": 3,
+  "default_delay": 0.2,
+  "max_threads": 200,
+  "max_requests_per_thread": 5000,
+  "smart_mode_default": true
+}
