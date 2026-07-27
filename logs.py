@@ -1,5 +1,3 @@
-# logs.py
-
 import logging
 import os
 import uuid
