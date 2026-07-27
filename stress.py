@@ -1,5 +1,3 @@
-# stress.py
-
 import time
 import random
 import threading
