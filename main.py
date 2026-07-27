@@ -128,7 +128,7 @@ def main():
         print("3. Clear Logs")
         print("4. Settings")
         print("5. Exit")
-        choice = input("Enter your choice (1-5): ")
+        choice = input("Enter your choice (1-5): ") 
         if choice == "1":
             url = input("Enter URL: ")
             if not validate_url(url):
